@@ -9,8 +9,19 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Godot-4.7-478CBF?logo=godot-engine&logoColor=white" alt="Godot 4.7">
+  <img src="https://img.shields.io/badge/Renderer-GL_Compatibility-6D28D9" alt="GL Compatibility">
+  <img src="https://img.shields.io/badge/Version-v0.1--prototype-E8B84B" alt="v0.1 prototype">
   <img src="https://img.shields.io/badge/Status-Prot%C3%B3tipo-E8B84B" alt="Protótipo">
+  <br>
+  <img src="https://img.shields.io/badge/Linux-supoorted-3E7C4F?logo=linux&logoColor=white" alt="Linux">
+  <img src="https://img.shields.io/badge/Windows-supported-0078D6?logo=windows&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/Genre-Action_dark_fantasy-8B2E4F" alt="Action dark fantasy">
+  <img src="https://img.shields.io/badge/Lang-PT--BR-009739" alt="PT-BR">
+  <br>
   <img src="https://img.shields.io/badge/License-MIT-3E7C4F" alt="MIT">
+  <img src="https://img.shields.io/github/downloads/Okamihere/Sable-Meridian/total?label=downloads&color=478CBF" alt="downloads">
+  <img src="https://img.shields.io/github/v/release/Okamihere/Sable-Meridian?label=release&color=6D28D9" alt="release">
 </p>
 
 ## Download
